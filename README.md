@@ -16,6 +16,6 @@ Vantagens de usar o PHP incluem sua ampla adoção e grande comunidade de desenv
 
 # Código PHP
 
-
+Este código PHP cria um formulario HTML simples onde o usuario pode inserir seu nome, idade e e-mail. Quando o formulario é submetido, os dados são enviados para o mesmo script PHP. O PHP então recebe esses dados usando o metodo POST e os exibe na tela.
 
 **Pedro Henrique Ferreira Lara**
